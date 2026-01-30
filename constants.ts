@@ -58,6 +58,27 @@ export const FACULTY: Faculty[] = [
     role: 'Sports Coordinator',
     bio: 'Former national level athlete dedicated to student fitness.',
     image: 'https://picsum.photos/seed/f3/200/200'
+  },
+  {
+    id: 'f4',
+    name: 'Dr. Sunita Sharma',
+    role: 'Dean of Commerce',
+    bio: 'Expert in Macroeconomics and Public Policy analysis.',
+    image: 'https://picsum.photos/seed/f4/200/200'
+  },
+  {
+    id: 'f5',
+    name: 'Mr. Rahul Kapoor',
+    role: 'IT Instructor',
+    bio: 'Industry veteran with expertise in Cloud Computing.',
+    image: 'https://picsum.photos/seed/f5/200/200'
+  },
+  {
+    id: 'f6',
+    name: 'Ms. Priya Malhotra',
+    role: 'English Literature',
+    bio: 'Published author specializing in post-colonial literature.',
+    image: 'https://picsum.photos/seed/f6/200/200'
   }
 ];
 
@@ -83,4 +104,13 @@ export const EVENTS: Event[] = [
     description: 'Guest lectures from prominent writers.',
     image: 'https://picsum.photos/seed/lit/400/250'
   }
+];
+
+export const GALLERY_IMAGES = [
+  'https://picsum.photos/seed/g1/400/400',
+  'https://picsum.photos/seed/g2/400/300',
+  'https://picsum.photos/seed/g3/300/400',
+  'https://picsum.photos/seed/g4/400/400',
+  'https://picsum.photos/seed/g5/400/300',
+  'https://picsum.photos/seed/g6/400/400',
 ];
